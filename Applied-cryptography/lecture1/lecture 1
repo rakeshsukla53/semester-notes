@@ -1,0 +1,18 @@
+1- In symmetric cryptography both alice and bob will share the same key to encrypt and decrypt.
+
+2- In Asymmetric Cryptography there will be different keys involved in encryption and decryption. Here you require large length
+keys.
+
+3- In practical life combination of both crytography is used and has many application.
+
+4- One time pad is a perfect cipher but it is highly impractical.
+
+5- Go through this link (http://crypto.stackexchange.com/questions/59/taking-advantage-of-one-time-pad-key-reuse)
+
+   It perfectly shows why we should not used the same key again and again in one time pad because you will be revealing the depth of the
+   your encryption.
+
+6- That's why it is practically not possible to have as many keys as messages.
+
+
+
