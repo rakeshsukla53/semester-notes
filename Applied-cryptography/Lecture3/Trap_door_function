@@ -1,0 +1,17 @@
+1- Trap Door functions are those functions which are easy to computer in one side but extrmely difficult to reverse it.
+
+   One perfect example of this is the modulus function
+
+   m mod p = e
+
+   m = 3^29
+   p = 17
+   e = 17
+
+
+   but if we have e = 17, p = 17 then it is extremely difficult to find the exponent value which will be 29
+
+   This is why it is called trap door function
+
+
+2-
