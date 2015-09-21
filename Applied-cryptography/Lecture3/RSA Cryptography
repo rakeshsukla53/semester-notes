@@ -1,0 +1,6 @@
+1- RSA Algorithm
+
+- So here we have a system where we can encrypt using one key and decrypt with another
+- RSA is also known as one door trap function and n here is the trapdoor
+- n is called trapdoor because it is really difficult to find n because of prime factorization
+-

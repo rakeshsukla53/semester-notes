@@ -1,0 +1,17 @@
+1- Big O
+
+We will use Big O for worst case scenario, or in mathematical terms
+
+f(x) -- O(g(x)) if there exist c, xo > 0
+such that f(x) <= c*g(x) for x>=xo
+
+2- Big Omega  (It is talking about best case scenario)
+
+if f(x) >= c*g(x) for all x>=x0
+
+3- Big Theta   Theta means temperate ( Midlle of best and worst)
+
+ f(x) >= c1*g(x) and f(x) <= c2*g(x)
+
+
+
