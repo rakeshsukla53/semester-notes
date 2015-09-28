@@ -1,0 +1,6 @@
+
+1- Aptly is basically used for uploading debain files and it provides an REST API
+2- Moorgate - Create login forms and password
+3- Understand bootstrap
+4- sudo apt-get remove
+5- Everything which is defined in view can be transported to the main HTML files and there is no need of any context variables
