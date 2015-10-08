@@ -4,3 +4,13 @@
 3- Understand bootstrap
 4- sudo apt-get remove
 5- Everything which is defined in view can be transported to the main HTML files and there is no need of any context variables
+6- Along with your server , you also have to run aptly <aptly api serve>
+
+See the main function of APTLY is described here
+
+1- aptly is a swiss army knife for Debian repository management: it allows you to mirror remote repositories, manage local package repositories, take snapshots, pull new versions of packages along with dependencies, publish as Debian repository
+
+2- aptly allows you to transistion your package environment to a new version, or rollback to a previous version.
+
+3- git push origin branchname
+
