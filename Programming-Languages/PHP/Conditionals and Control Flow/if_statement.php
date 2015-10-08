@@ -13,3 +13,11 @@
 </body>
 </html>
 
+<?php
+//if (this condition is true) {
+//    // do this code
+//}
+//  else {
+//    // do this code instead
+//}
+//?>
